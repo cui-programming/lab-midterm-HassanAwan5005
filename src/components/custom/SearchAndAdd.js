@@ -5,7 +5,7 @@ import { styles } from '../../styles/styles';
 import { initialAzkaar } from '../../data/azkaar';
 
 /**
- * Custom/SearchAndAdd
+ * Cstom/SearchAndAdd
  * Implements:
  *  - a text box to add a new zikr (phrase only, count starts at 0)
  *  - a search box to filter existing azkaar by phrase
